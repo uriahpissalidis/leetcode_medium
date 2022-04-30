@@ -4,3 +4,4 @@
 173: Binary Search Tree Iterator - Done <br>
 1202: Smallest String with Swaps - Done but needs further review, also need to work on Union Find solution <br>
 1584: Minimum cost to connect all points - Done, needs further review <br>
+399: Evaluate Division, two ways. - Done, however I need to map out how the code works, I am not sure how it flows<br>
