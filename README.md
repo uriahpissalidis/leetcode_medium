@@ -8,3 +8,4 @@
 581: Shortest Unsorted Continuous Array - Done <br>
 1679: Max Number of K-Sum Pairs - Done <br>
 1209: Remove All Adjacent Duplicates in String II - Done, adding a stack really helped with the solution <br>
+456: 132 Pattern - Done, problem was more tricky than I initially assumed, added a java and py solution <br>
