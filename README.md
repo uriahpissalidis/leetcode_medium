@@ -12,3 +12,4 @@
 1641: Count Sorted Vowel Strings - Done, realizing a combinations problem it was simple doing the formula <br>
 117: Populating Next Right Pointers in Each Node II - Done <br>
 1689: Partitioning Into Minimum Number Of Deci-Binary Numbers - Done, once the trick was realized it was very easy <br>
+2181: Merge Nodes in Between Zeros - Done <br>
