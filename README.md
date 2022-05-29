@@ -16,3 +16,4 @@
 63: Unique Paths II - Done, but needs review <br>
 322: Coin Change - Done <br>
 647: Palindromic Substrings - Done <br>
+318: Maximum Product of Word Lengths - Done <br>
