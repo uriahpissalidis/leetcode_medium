@@ -19,4 +19,5 @@
 318: Maximum Product of Word Lengths - Done <br>
 1461 Check If a String Contains All Binary Codes of Size K - Done <br>
 1637: Widest Vertical Area Between Two Adjacent Points - Done <br>
-176: Two Sum II - Input Array Is Sorted - Done, sorted means you can utilize a binary search but I thought a sliding window was easier
+176: Two Sum II - Input Array Is Sorted - Done, sorted means you can utilize a binary search but I thought a sliding window was easier <br>
+3: Longest Substring Without Repeating Characters - Done, using a set makes the problem much easier <br>
