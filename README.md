@@ -21,3 +21,5 @@
 1637: Widest Vertical Area Between Two Adjacent Points - Done <br>
 176: Two Sum II - Input Array Is Sorted - Done, sorted means you can utilize a binary search but I thought a sliding window was easier <br>
 3: Longest Substring Without Repeating Characters - Done, using a set makes the problem much easier <br>
+1695: Maximum Erasure Value - Done <br>
+120: Triangle - Done <br>
