@@ -26,3 +26,4 @@
 11: Container With Most Water - Done, also had a brute force solution but TLE occurred so the solution was to use two pointers and optimize from there <br>
 5: Longest Palindromic Subsequence - Done <br>
 2161: Partition Array According to Given Pivot - Done, not very fast, will refactor at some point <br>
+1409: 1409. Queries on a Permutation With Key - Done <br>
