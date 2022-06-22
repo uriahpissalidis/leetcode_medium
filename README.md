@@ -27,3 +27,4 @@
 5: Longest Palindromic Subsequence - Done <br>
 2161: Partition Array According to Given Pivot - Done, not very fast, will refactor at some point <br>
 1409: Queries on a Permutation With Key - Done <br>
+1268 Seach Suggestions System - Done, attempting to make the solution above work as well <br>
