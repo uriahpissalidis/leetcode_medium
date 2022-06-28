@@ -33,3 +33,4 @@
 1423: Maximum Points You Can Obtain from Cards - Done, interesting little question, had to think about it for a little while <br>
 1817: Finding the Users Active Minutes - Done <br>
 2130: Maximum Twin Sum of a Linked List- Done, simple after you READ the description <br>
+1647: Minimum Deletions to Make Character Frequencies Unique - Done <br>
