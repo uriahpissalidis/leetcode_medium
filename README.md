@@ -35,3 +35,4 @@
 2130: Maximum Twin Sum of a Linked List- Done, simple after you READ the description <br>
 1647: Minimum Deletions to Make Character Frequencies Unique - Done <br>
 406: Queue Reconstruction by Height - Done <br>
+128: Longest Consecutive Sequence - Done <br>
