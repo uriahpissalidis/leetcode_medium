@@ -37,3 +37,4 @@
 406: Queue Reconstruction by Height - Done <br>
 128: Longest Consecutive Sequence - Done <br>
 462: Minimum Moves to Equal Array Elements II - Done, average will not work here, that was my first thought going into this problem <br>
+1551: Minimum Operations to Make Array Equal - Done
