@@ -39,3 +39,4 @@
 462: Minimum Moves to Equal Array Elements II - Done, average will not work here, that was my first thought going into this problem <br>
 1551: Minimum Operations to Make Array Equal - Done <br>
 797: All Paths From Source to Target - Done <br>
+376: Wiggle Subsequence - Done <br>
