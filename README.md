@@ -40,3 +40,4 @@
 1551: Minimum Operations to Make Array Equal - Done <br>
 797: All Paths From Source to Target - Done <br>
 376: Wiggle Subsequence - Done <br>
+1877: Minimize Maximum Pair Sum in Array - Done <br>
