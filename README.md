@@ -47,3 +47,4 @@
 34. Find First and Last Position of Element in Sorted Array - Done <br>
 916. Word Subsets - Done, need to figure out why last testcase fails <br>
 307. Range Sum Query, Mutable - Done <br>
+62. Unique Paths - Done <br>
