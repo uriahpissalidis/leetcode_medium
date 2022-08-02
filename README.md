@@ -48,3 +48,4 @@
 916. Word Subsets - Done, need to figure out why last testcase fails <br>
 307. Range Sum Query, Mutable - Done <br>
 62. Unique Paths - Done <br>
+378. Kth Smallest Element in a Sorted Matrix, want to add a binary search within a 2d list as well, think it will be faster <br>
