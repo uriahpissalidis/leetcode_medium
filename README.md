@@ -50,3 +50,5 @@
 62. Unique Paths - Done <br>
 378. Kth Smallest Element in a Sorted Matrix, want to add a binary search within a 2d list as well, think it will be faster <br>
 377. Combination Sum IV - Done <br>
+921. Minimum Add to Make Parentheses Valid - Done <br>
+
