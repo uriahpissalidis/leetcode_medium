@@ -52,3 +52,4 @@
 377. Combination Sum IV - Done <br>
 921. Minimum Add to Make Parentheses Valid - Done <br>
 300. Longest Increasing Subsequence - Done <br>
+98. Validate Binary Search Tree - Done <br>
