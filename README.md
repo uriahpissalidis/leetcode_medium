@@ -53,3 +53,4 @@
 921. Minimum Add to Make Parentheses Valid - Done <br>
 300. Longest Increasing Subsequence - Done <br>
 98. Validate Binary Search Tree - Done <br>
+1347. Minimum Number of Steps to Make Two Strings Anagram - Done <br>
