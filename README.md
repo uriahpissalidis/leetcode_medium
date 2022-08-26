@@ -54,3 +54,4 @@
 300. Longest Increasing Subsequence - Done <br>
 98. Validate Binary Search Tree - Done <br>
 1347. Minimum Number of Steps to Make Two Strings Anagram - Done <br>
+869. Reordered Power of 2 - Done <br>
