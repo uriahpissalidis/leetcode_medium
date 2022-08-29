@@ -56,3 +56,4 @@
 1347. Minimum Number of Steps to Make Two Strings Anagram - Done <br>
 869. Reordered Power of 2 - Done <br>
 80. Remove Duplicates from Sorted Array II - Done <br>
+1561. Maximum Number of Coins You Can Get - Done <br>
