@@ -61,3 +61,4 @@
 429. N-ary Tree Level Order Traversal - Done <br>
 237. Delete Node in a Linked List - Done <br>
 948. Bag of Tokens - Done
+985. Sum of Even Numbers after Queries - Done (Will upload solution that is not TLE/Brute)
