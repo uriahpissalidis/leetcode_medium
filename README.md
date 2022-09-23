@@ -62,3 +62,4 @@
 237. Delete Node in a Linked List - Done <br>
 948. Bag of Tokens - Done
 985. Sum of Even Numbers after Queries - Done (Will upload solution that is not TLE/Brute)
+1680. Concatenation of Consecutive Binary Numbers - Done
