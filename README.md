@@ -60,6 +60,7 @@
 48. Rotate Image - Done <br>
 429. N-ary Tree Level Order Traversal - Done <br>
 237. Delete Node in a Linked List - Done <br>
-948. Bag of Tokens - Done
-985. Sum of Even Numbers after Queries - Done (Will upload solution that is not TLE/Brute)
-1680. Concatenation of Consecutive Binary Numbers - Done
+948. Bag of Tokens - Done <br>
+985. Sum of Even Numbers after Queries - Done (Will upload solution that is not TLE/Brute) <br>
+1680. Concatenation of Consecutive Binary Numbers - Done <br>
+1910. Remove All Occurrences of a Substring - Done <br>
