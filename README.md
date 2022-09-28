@@ -64,3 +64,4 @@
 985. Sum of Even Numbers after Queries - Done (Will upload solution that is not TLE/Brute) <br>
 1680. Concatenation of Consecutive Binary Numbers - Done <br>
 1910. Remove All Occurrences of a Substring - Done <br>
+19. Remove Nth Node From End of List - Done two ways <br>
