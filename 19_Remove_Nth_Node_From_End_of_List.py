@@ -5,6 +5,7 @@ class Solution:
         fast = slow = head
         for _ in range(n): 
             fast = fast.next # skip n nodes
+        # If fast == None at the end of the loop that means that the end is actually the first node.
         if fast == None: 
             return head.next
         while fast.next:
