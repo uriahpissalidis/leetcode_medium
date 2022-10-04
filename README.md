@@ -65,3 +65,4 @@
 1680. Concatenation of Consecutive Binary Numbers - Done <br>
 1910. Remove All Occurrences of a Substring - Done <br>
 19. Remove Nth Node From End of List - Done two ways <br>
+55. Jump Game - Three solutions <br>
