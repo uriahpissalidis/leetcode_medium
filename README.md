@@ -23,7 +23,7 @@
 3: Longest Substring Without Repeating Characters - Done, using a set makes the problem much easier <br>
 1695: Maximum Erasure Value - Done <br>
 120: Triangle - Done <br>
-11: Container With Most Water - Done, also had a brute force solution but TLE occurred so the solution was to use two pointers and optimize from there <br>
+11: Container With Most Water - Done, retooled solution to be more readable <br>
 5: Longest Palindromic Subsequence - Done <br>
 2161: Partition Array According to Given Pivot - Done, not very fast, will refactor at some point <br>
 1409: Queries on a Permutation With Key - Done <br>
