@@ -66,4 +66,4 @@
 1910. Remove All Occurrences of a Substring - Done <br>
 19. Remove Nth Node From End of List - Done two ways <br>
 55. Jump Game - Three solutions <br>
-451. Sort Characters By Frequency, naive solution being posted, trying to figure out if this or sorting are faster <br>
+451. Sort Characters By Frequency, naive solution being posted, trying to figure out if this or sorting are faster, added a faster solution <br>
