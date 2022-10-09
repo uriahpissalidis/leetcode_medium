@@ -1,5 +1,17 @@
 from collections import Counter
 class Solution:
+    
+    # optimized, runs 96% faster
+    def frequencySort(self, s: str) -> str:
+    d = Counter(s)
+    output = ''
+    while d:
+        newkey = max(d, key = d.get)
+        output += (newkey * d[newkey])
+        d.pop(newkey)
+    return output
+
+    # not optimized, explained
     def frequencySort(self, s: str) -> str:
         count = len(s)
         d, ans = Counter(s), ''
