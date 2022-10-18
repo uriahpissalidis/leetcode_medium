@@ -69,3 +69,4 @@
 451. Sort Characters By Frequency, naive solution being posted, trying to figure out if this or sorting are faster, added a faster solution <br>
 784. Letter Case Permutation, done <br>
 1529. Minimum Suffix Flips, done <br>
+2442. Count Number of Distinct Integers After Reverse Operations, done <br>
