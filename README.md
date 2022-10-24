@@ -71,3 +71,4 @@
 1529. Minimum Suffix Flips, done <br>
 2442. Count Number of Distinct Integers After Reverse Operations, done <br>
 692. Top K Frequent Words, done <br>
+2396. Strictly Palindromic Number, done (lol) <br>
