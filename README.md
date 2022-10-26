@@ -72,3 +72,4 @@
 2442. Count Number of Distinct Integers After Reverse Operations, done <br>
 692. Top K Frequent Words, done <br>
 2396. Strictly Palindromic Number, done (lol) <br>
+2447. Number of Subarrays With GCD Equal to K, need to look over, see if there are optimizations available <br>
