@@ -75,3 +75,4 @@
 2447. Number of Subarrays With GCD Equal to K, need to look over, see if there are optimizations available <br>
 49. Group Anagrams, done <br>
 1669. Merge In Between Linked Lists, done <br>
+2405. Optimal Partition of String, done <br>
