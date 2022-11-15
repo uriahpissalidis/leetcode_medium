@@ -79,3 +79,4 @@
 2348. Number of Zero-Filled Subarrays, done <br>
 2. Add Two Numbers, done <br>
 2211. Count Collisions on a Road, done <br>
+222. Count Complete Tree Nodes, done <br>
