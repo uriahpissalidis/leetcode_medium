@@ -80,4 +80,5 @@
 2. Add Two Numbers, done <br>
 2211. Count Collisions on a Road, done <br>
 222. Count Complete Tree Nodes, done <br>
-2476. Closest Nodes Queries in a Binary Search Tree <br>
+2476. Closest Nodes Queries in a Binary Search Tree, done <br>
+1418. Display Table of Food Orders in a Restaurant, done <br>
