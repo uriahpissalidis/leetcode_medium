@@ -83,3 +83,4 @@
 2476. Closest Nodes Queries in a Binary Search Tree, done <br>
 1418. Display Table of Food Orders in a Restaurant, done <br>
 2482. Difference Between Ones and Zeros in Row and Column, done <br>
+2483. Minimum Penalty for a Shop, done <br>
