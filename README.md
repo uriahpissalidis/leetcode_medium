@@ -87,3 +87,4 @@
 238. Product of Array Except Self, done <br>
 1657. Determine if Two Strings Are Close, done <br>
 1325. Delete Leaves With a Given Value, done <br>
+2256. Minimum Average Difference, done <br>
