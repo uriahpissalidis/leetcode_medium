@@ -89,3 +89,4 @@
 1325. Delete Leaves With a Given Value, done <br>
 2256. Minimum Average Difference, done <br>
 328. Odd Even Linked List, done <br>
+1310. XOR Queries of a Subarray, done <br>
