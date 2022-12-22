@@ -96,3 +96,4 @@
 739. Daily Temperatures, done <br>
 841. Keys and Rooms, done <br>
 1277. Count Square Submatrices with All Ones, done <br>
+2294. Partition Array Such That Maximum Difference Is K, done <br>
